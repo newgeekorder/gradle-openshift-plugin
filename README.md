@@ -1,6 +1,6 @@
 # Gradle OpenShift Plugin
 
-Gradle plugin to integrate with OpenShift, the project currently provides a base plugin with no default (opinionated) tasks.
+Gradle plugin to integrate with OpenShift, this project is a fork of https://github.com/iwarapter/gradle-openshift-plugin
 
 [![Build Status](https://travis-ci.org/iwarapter/gradle-openshift-plugin.svg?branch=master)](https://travis-ci.org/iwarapter/gradle-openshift-plugin)
 
