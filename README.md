@@ -1,6 +1,7 @@
 # Gradle OpenShift Plugin
 
 Gradle plugin to integrate with OpenShift, this project is a fork of https://github.com/iwarapter/gradle-openshift-plugin
+The project leverage Fabric8 Openshift client to interact with oepnshift 
 
 [![Build Status](https://travis-ci.org/iwarapter/gradle-openshift-plugin.svg?branch=master)](https://travis-ci.org/iwarapter/gradle-openshift-plugin)
 
